@@ -1,0 +1,131 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "array": "c",
+        "atomic": "c",
+        "*.tcc": "c",
+        "cctype": "c",
+        "clocale": "c",
+        "cmath": "c",
+        "cstdarg": "c",
+        "cstddef": "c",
+        "cstdint": "c",
+        "cstdio": "c",
+        "cstdlib": "c",
+        "cstring": "c",
+        "cwchar": "c",
+        "cwctype": "c",
+        "deque": "c",
+        "unordered_map": "c",
+        "unordered_set": "c",
+        "exception": "c",
+        "algorithm": "c",
+        "memory": "c",
+        "memory_resource": "c",
+        "optional": "c",
+        "string": "c",
+        "string_view": "c",
+        "system_error": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "fstream": "c",
+        "initializer_list": "c",
+        "iosfwd": "c",
+        "iostream": "c",
+        "istream": "c",
+        "limits": "c",
+        "new": "c",
+        "ostream": "c",
+        "sstream": "c",
+        "stdexcept": "c",
+        "streambuf": "c",
+        "typeinfo": "c"
+    },
+
+    // "editor.tokenColorCustomizations": {
+    //     "textMateRules": [
+    //         {
+    //             "scope": [
+    //                 "entity.name.function", // 函数
+    //                 "keyword.operator.sizeof" // sizeof
+    //             ],
+    //             "settings": {
+    //                 "foreground": "#1fd137",
+    //                 "fontStyle": "italic"
+    //             }
+    //         },
+    //         {
+    //             "scope": [
+    //                 "entity.name.type", // typedef 类型
+    //                 "storage.type.built-in.primitive.c", //自带的类型
+    //                 "storage.type", // struct关键字
+    //             ],
+    //             "settings": {
+    //                 "foreground": "#3fccd1",
+    //                 "fontStyle": "bold"
+    //             }
+    //         },
+    //         {
+    //             "scope": [
+    //                 "variable.other.global", //全局变量
+    //             ],
+    //             "settings": {
+    //                 "foreground": "#bd9924",
+    //                 "fontStyle": "italic"
+    //             }
+    //         },
+    //         {
+    //             "scope": [
+    //                 "entity.name.function.preprocessor", // 宏定义
+    //             ],
+    //             "settings": {
+    //                 "foreground": "#971818",
+    //                 "fontStyle": "italic bold"
+    //             }
+    //         },
+    //         {
+    //             "scope": [
+    //                 "variable.other.local", // 局部变量
+    //                 "variable.parameter", // 形参
+    //             ],
+    //             "settings": {
+    //                 "foreground": "#00b7ff",
+    //                 "fontStyle": "italic"
+    //             }
+    //         },
+    //         {
+    //             "scope": [
+    //                 "variable.other.property", // 结构体的字段
+    //             ],
+    //             "settings": {
+    //                 "foreground": "#1652c2",
+    //                 "fontStyle": "bold"
+    //             }
+    //         },
+    //         {
+    //             "scope": [
+    //                 // "keyword", // typedef
+    //                 "keyword.control", // if, else, return
+    //                 "storage.modifier", // const, static
+    //             ],
+    //             "settings": {
+    //                 "foreground": "#ffff00",
+    //                 "fontStyle": "italic"
+    //             }
+    //         },
+    //         {
+    //             "scope": [
+    //                 "constant.numeric" // 数值
+    //             ],
+    //             "settings": {
+    //                 "foreground": "#22daac",
+    //                 "fontStyle": "italic"
+    //             }
+    //         },
+    //     ],
+    // },
+
+
+
+}
