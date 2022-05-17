@@ -2,8 +2,8 @@
 git init
 git config --global --add safe.directory /home/mnt_drive/leetcode
 
-git config --global user.email "shouyanxiang@microsoft.com"
-git config --global user.name "shouyanxiang"
+git config --global user.email ""
+git config --global user.name ""
 
 
 
