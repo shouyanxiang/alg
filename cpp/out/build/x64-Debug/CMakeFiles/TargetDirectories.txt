@@ -1,3 +1,3 @@
-E:/leetcode/cpp/out/build/x64-Debug/CMakeFiles/leetcode.dir
-E:/leetcode/cpp/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-E:/leetcode/cpp/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+E:/CodeRepo/alg/alg/cpp/out/build/x64-Debug/CMakeFiles/leetcode.dir
+E:/CodeRepo/alg/alg/cpp/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+E:/CodeRepo/alg/alg/cpp/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\out",
+    "\\out\\build"
   ],
-  "SelectedNode": "\\leetcode.h",
+  "SelectedNode": "\\leetcode.cpp",
   "PreviewInSolutionExplorer": false
 }
