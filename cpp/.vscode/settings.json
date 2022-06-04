@@ -40,8 +40,38 @@
         "sstream": "c",
         "stdexcept": "c",
         "streambuf": "c",
-        "typeinfo": "c"
+        "typeinfo": "c",
+        "bit": "cpp",
+        "compare": "cpp",
+        "concepts": "cpp",
+        "ctime": "cpp",
+        "ios": "cpp",
+        "iterator": "cpp",
+        "list": "cpp",
+        "stack": "cpp",
+        "xfacet": "cpp",
+        "xhash": "cpp",
+        "xiosbase": "cpp",
+        "xlocale": "cpp",
+        "xlocinfo": "cpp",
+        "xlocnum": "cpp",
+        "xmemory": "cpp",
+        "xstddef": "cpp",
+        "xstring": "cpp",
+        "xtr1common": "cpp",
+        "xutility": "cpp",
+        "functional": "c",
+        "queue": "cpp"
     },
+
+    // "change-case.default": [
+    //     "camelCase",
+    //     "param-case",
+    //     "snake_case",
+    //     "PascalCase",
+    //     "CONST_CASE",
+    // ]
+
 
     // "editor.tokenColorCustomizations": {
     //     "textMateRules": [

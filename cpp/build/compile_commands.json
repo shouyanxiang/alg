@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/mnt_drive/leetcode/cpp/build",
-  "command": "/usr/bin/g++   -I../leetcode.h  -g   -std=gnu++14 -o CMakeFiles/leetcode.dir/leetcode.cpp.o -c /home/mnt_drive/leetcode/cpp/leetcode.cpp",
-  "file": "/home/mnt_drive/leetcode/cpp/leetcode.cpp"
-}
-]

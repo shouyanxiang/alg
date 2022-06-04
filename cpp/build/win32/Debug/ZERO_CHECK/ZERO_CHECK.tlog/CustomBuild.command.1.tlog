@@ -1,0 +1,10 @@
+^E:\CODEREPO\ALG\ALG\CPP\BUILD\CMAKEFILES\A1CFEE4C5F1B080AD814084A0CC6CD3C\GENERATE.STAMP.RULE
+setlocal
+E:\VS\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe -SE:/CodeRepo/alg/alg/cpp -BE:/CodeRepo/alg/alg/cpp/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/CodeRepo/alg/alg/cpp/build/leetcode.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
